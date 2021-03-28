@@ -2,7 +2,6 @@
   "scripts": {
     "handlebars": "handlebars templates/ -f templatesCompiled.js"
   },
-
   "dependencies": {
     "handlebars": "^4.7.7"
   }
